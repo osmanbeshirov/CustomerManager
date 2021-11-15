@@ -1,0 +1,10 @@
+E:\VisualEngin\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.deps.json
+E:\VisualEngin\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.runtimeconfig.json
+E:\VisualEngin\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.runtimeconfig.dev.json
+E:\VisualEngin\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.dll
+E:\VisualEngin\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.pdb
+E:\VisualEngin\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+E:\VisualEngin\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfoInputs.cache
+E:\VisualEngin\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfo.cs
+E:\VisualEngin\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.dll
+E:\VisualEngin\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.pdb
